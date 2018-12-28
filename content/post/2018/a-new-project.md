@@ -2,7 +2,7 @@
 title: "A New Project"
 date: 2018-10-27T09:42:43-07:00
 tags: ["projects"]
-draft: true
+draft: false
 ---
 
 Today I registered a domain name. I've been thinking about this project for a little while, and I haven't really had a name for it, and now, for better or worse, I have something to call it. I'm going to make a citation manager and I'm going to call it Marginalien.
