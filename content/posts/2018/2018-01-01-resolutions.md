@@ -1,7 +1,7 @@
 ---
 title: "Resolutions"
 date: 2018-01-01T19:11:40-08:00
-draft: true
+draft: false
 ---
 
 A short list:

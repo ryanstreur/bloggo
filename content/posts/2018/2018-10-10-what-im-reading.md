@@ -1,5 +1,5 @@
 ---
-title: "What Im Reading This Week"
+title: "What I'm Reading This Week"
 date: 2018-10-10T08:34:12-07:00
 draft: false
 ---

@@ -1,4 +1,4 @@
---
+---
 title: "Direction"
 date: 2017-11-07T22:10:09-08:00
 publishDate: 2017-11-17

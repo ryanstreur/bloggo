@@ -1,35 +1,71 @@
-baseurl = "/"
-title = "Ryan Streur's Blog"
+baseURL = "https://ryanstreur.com"
 languageCode = "en-us"
-paginate = "10" # Number of posts per page
-theme = "mainroad"
-disqusShortname = "" # Enable comments by entering your Disqus shortname
-googleAnalytics = "UA-97395089-4" # Enable Google Analytics by entering your tracking id
+defaultContentLanguage = "en"
+title = "Ryan Streur"
+theme = "hermit"
+# enableGitInfo = true
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+hasCJKLanguage = true  # If there're Chinese/Japanese/Korean Languages in the content, enable this.
+rssLimit = 10  # Maximum number of items in the RSS feed.
+copyright = "Copyright Ryan Streur, 2018" # This message is only used by the RSS template.
+enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
+# googleAnalytics = "UA-123-45"
+# disqusShortname = "yourdiscussshortname"
 
-[Author]
+[author]
   name = "Ryan Streur"
-  bio = "Ryan's a curious web developer in Portland."
-  avatar = "img/avatar.png"
 
-[Params]
-  subtitle = "I'm not there yet, but I'm working on it." # Subtitle of your site
-  description = "Ryan Streur's Blog" # Description of your site
-  opengraph = true
-  twitter_cards = false
-  readmore = false # Show "Read more" button in list if true
-  authorbox = true
-  post_navigation = true
-  postSections = ["post"]
+[blackfriday]
+  hrefTargetBlank = true
 
-[Params.sidebar]
-  home = "right"   # Configure layout for home page
-  list = "right"   # Configure layout for list pages
-  single = "right" # Configure layout for single pages
-  # Enable widgets in given order
-  widgets = [
-          # "search",
-          "recent", "categories", "taglist"]
+[taxonomies]
+  tag = "tags"
+  category = ""  # Categories are disabled by default.
 
-[Params.widgets]
-  recent_num = 5 # Set the number of articles in the "Recent articles" widget
-tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # themeColor = "#494f5c"  # Theme color in meta tags.
+  homeSubtitle = "who?"
+  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  # gitUrl = "https://github.com/Someone/SomeRepo/commit/" # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  justifyContent = false  # Set "text-align: justify" to .content, requires extended version of Hugo
+  # bgImg = ""  #  Homepage background-image URL
+
+  # Social Icons
+  # Check https://github.com/Track3/hermit#social-icons for more info.
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/RJStreur"
+
+  [[params.social]]
+    name = "instagram"
+    url = "https://www.instagram.com/coffeelibation/"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/ryanstreur"
+
+  [[params.social]]
+    name = "email"
+    url = "mailto:rjstreur@gmail.com"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/ryanstreur/"
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 20

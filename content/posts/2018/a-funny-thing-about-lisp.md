@@ -1,7 +1,7 @@
 ---
 title: "A Funny Thing About Lisp"
 date: 2018-10-20T19:13:25-07:00
-draft: true
+draft: false
 ---
 
 I came across this passage in the lovely article about Lisp: [How Lisp Became God's Own Programming Language](https://twobithistory.org/2018/10/14/lisp.html), on Two-Bit History (I just found out about them!).
