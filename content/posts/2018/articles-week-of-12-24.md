@@ -29,6 +29,7 @@ tags: ["security", "technology"]
 
 ## Dev
 * [How To Secure Nginx with Let's Encrypt on Ubuntu 18.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-18-04)
+* [JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/)
 
 ## Other
 * [undefined](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2018.0822)

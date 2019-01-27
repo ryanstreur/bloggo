@@ -3,6 +3,8 @@ title: "Some Articles I'm Reading on Thanksgiving"
 date: 2018-11-22T11:25:26-08:00
 draft: false
 categories: [Article Lists]
+tags:
+  - links
 ---
 
 ## Festive

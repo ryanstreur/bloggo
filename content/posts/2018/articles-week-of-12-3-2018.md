@@ -2,6 +2,8 @@
 title: "Articles Week of 12/3/2018"
 date: 2018-12-03T15:27:19-08:00
 draft: false
+tags:
+  - links
 ---
 
 * [Bloomberg - Are you a robot?](https://www.bloomberg.com/news/articles/2018-12-04/china-announces-new-punishments-for-intellectual-property-theft)

@@ -2,6 +2,8 @@
 title: "What I'm Reading This Week"
 date: 2018-10-10T08:34:12-07:00
 draft: false
+tags:
+  - links
 ---
 
 * Clara Artschwager writes for The Cut about how texting makes relationships [more complicated and distracting](https://www.thecut.com/2018/10/its-complicated-dating-without-texting.html).
