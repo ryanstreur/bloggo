@@ -1,9 +1,8 @@
 ---
 title: "Questions"
 date: 2017-12-24T14:58:40-06:00
+draft: false
 ---
-
-# Questions
 
 * Why do people say that a functional style is better suited to applications with high concurrency? 
 * What does it mean to live a good life?

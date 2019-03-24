@@ -2,7 +2,7 @@
 title: "In-Dev Features"
 date: 2017-12-21T21:58:12-08:00
 lastmod: 2017-12-24T14:56:00-06:00
-draft: false
+draft: true
 BackgroundImageUrl: "/images/coast.jpg"
 BackgroundY: "50%"
 ---
