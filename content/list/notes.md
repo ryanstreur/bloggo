@@ -4,6 +4,7 @@ date: 2018-03-02T14:42:12-08:00
 draft: true
 ---
 
+
 _Thu Mar  8 11:51:34 2018_
 
 If I have a page of short, publicly available notes, what's the difference between those notes and tweets?

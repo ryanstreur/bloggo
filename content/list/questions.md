@@ -13,6 +13,7 @@ draft: false
 * What would be a good way to display tabular data on a mobile device?
 * What are the big advantages of end-to-end-encrypted messaging? Should I get serious about it, and recommend that my friends do too?
 * How have people criticized Aristotle on the topic of Eudaimonia?
+* I've heard that Chromim has some kind of built-in tracking software that reports to Google, and that was the source of much of the controversy of MS Edge moving to Chromium. Is that true?
 
 Sat, 4/21/18
 Seattle, WA

@@ -1,0 +1,22 @@
+{
+  "name": "ryanstreur-blog",
+  "version": "0.0.1",
+  "description": "A blog by some guy",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanstreur/bloggo.git"
+  },
+  "author": "Ryan Streur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanstreur/bloggo/issues"
+  },
+  "homepage": "https://github.com/ryanstreur/bloggo#readme",
+  "dependencies": {
+    "three": "^0.103.0"
+  }
+}
