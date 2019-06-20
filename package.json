@@ -4,6 +4,9 @@
   "description": "A blog by some guy",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
+    "start": "webpack --config webpack.config.dev.js --watch",
+    "dev": "hugo server -D & npm start & open http://localhost:1313",
     "test": "test"
   },
   "repository": {
@@ -17,6 +20,14 @@
   },
   "homepage": "https://github.com/ryanstreur/bloggo#readme",
   "dependencies": {
-    "three": "^0.103.0"
+    "three": "^0.103.0",
+    "three-orbitcontrols": "^2.102.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.0",
+    "@babel/preset-env": "^7.4.2",
+    "babel-loader": "^8.0.5",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
   }
 }

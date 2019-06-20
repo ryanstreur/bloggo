@@ -17,5 +17,5 @@ This one took me a while, but it was fun! Learning how to make objects move alon
 
 <div id="orbitEssay"></div>
 
-<script src="/third-party/three.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/103/three.min.js"></script>
 <script src="messing-around-with-three-js.js"></script>

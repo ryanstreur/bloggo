@@ -10,7 +10,6 @@ draft: true
   * HTML/CSS
   * JavaScript
      * AngularJS
-     * Cross-browser compatibility
   * TypeScript
      * Angular
   * Enterprise front-end development
