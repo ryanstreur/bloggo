@@ -8,7 +8,6 @@ draft: false
   * Will I ever be satisfied?
 * Concepts and Requirements
   * Some of these I'm pretty sure are necessary. Others feel like they would be beneficial, but in a less well-defined sort of way.
-  * 
 
 # A review of my personal usage
 

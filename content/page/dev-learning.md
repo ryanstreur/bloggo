@@ -3,45 +3,41 @@ title: "Dev Learning"
 date: 2019-05-16T14:47:14-07:00
 draft: false
 ---
-
-- [Rationale - Why would I create this page?](#rationale---why-would-i-create-this-page)
-- [Software Development](#software-development)
-  - [General Resources](#general-resources)
-  - [Stacks and Languages](#stacks-and-languages)
-    - [JavaScript](#javascript)
-    - [TypeScript](#typescript)
-    - [Front-End](#front-end)
-      - [Frameworks](#frameworks)
-    - [Server-Side](#server-side)
-- [Operating Systems](#operating-systems)
-  - [Unix](#unix)
-- [Architecture and Patterns](#architecture-and-patterns)
-  - [MVC Pattern](#mvc-pattern)
-  - [Microservices architecture](#microservices-architecture)
-- [Development Practices](#development-practices)
-  - [TDD](#tdd)
-  - [Agile](#agile)
-- [Tools](#tools)
-  - [Shell](#shell)
-  - [Git](#git)
-  - [Editors](#editors)
-  - [IDEs](#ides)
-- [UX](#ux)
-  - [Accessibility](#accessibility)
+- [Rationale - Why would I create this page?](#Rationale---Why-would-I-create-this-page)
+- [Software Development](#Software-Development)
+  - [General Resources](#General-Resources)
+    - [Books](#Books)
+  - [Stacks and Languages](#Stacks-and-Languages)
+    - [JavaScript](#JavaScript)
+    - [TypeScript](#TypeScript)
+    - [Front-End](#Front-End)
+      - [Frameworks](#Frameworks)
+    - [Server-Side](#Server-Side)
+- [Operating Systems](#Operating-Systems)
+  - [Unix](#Unix)
+  - [MVC Pattern](#MVC-Pattern)
+  - [Microservices architecture](#Microservices-architecture)
+- [Development Practices](#Development-Practices)
+  - [TDD](#TDD)
+  - [Agile](#Agile)
+- [Tools](#Tools)
+  - [Shell](#Shell)
+  - [Git](#Git)
+  - [Editors](#Editors)
+  - [IDEs](#IDEs)
+- [UX](#UX)
+  - [Accessibility](#Accessibility)
 
 # Rationale - Why would I create this page?
 
-I am trying to figure out how to write good software and what it means to be an effective software developer. There are others like me trying to ask the same questions. I want a place to organize and structure my molten thoughts. I also feel like these thoughts and resources may be useful to others, even if I don't have the time to structure them more thoroughly.
+I am trying to figure out how to write good software and what it means to be an effective software developer. There are others like me trying to ask the same questions. I want a place to organize and structure my thoughts. I also feel like these thoughts and resources may be useful to others, even if I don't have the time to structure them more thoroughly.
 
-Of course there's an element of vulnerability in making these ideas public. Someone could read them and use them to judge my ability lacking. What they couldn't do is read them and judge my curiosity lacking, so I'm fine with it.
+Of course there's an element of vulnerability in making these ideas public. Someone could read them and find my ability lacking. What they couldn't do is read them and find my curiosity lacking, so I'm fine with it.
 
 # Software Development
 
 - Question: What are the most effective patterns for growing software? What about for growing software organizations?
   - When creating a new project with limited resources (such that you may be better served by the lower complexity of a monolith) how can you write it to facilitate later separating functionality into separate services?
-- The idea of ceremony
-  - Process ceremony (crufty agile, bad test processes)
-  - Long, ritualistic entity declarations (functions, classes, interfaces, etc.)
 - Legacy code and technical debt
   - [Technical Debt, Martin Fowler, 2019](https://martinfowler.com/bliki/TechnicalDebt.html)
   - Working Effectively With Legacy Code, by Michael Feathers
@@ -50,6 +46,13 @@ Of course there's an element of vulnerability in making these ideas public. Some
 
 - [Github Repo of Free Programming Ebooks](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 - [Repo: Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+
+### Books
+
+- [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
+- [Code Complete](https://www.worldcat.org/title/code-complete-a-practical-handbook-of-software-construction/oclc/841014254&referer=brief_results)
+- [The Pragmatic Programmer]()
+- [Working Effectively with Legacy Code](https://www.worldcat.org/title/working-effectively-with-legacy-code/oclc/859641541&referer=brief_results)
 
 ## Stacks and Languages
 
@@ -73,6 +76,7 @@ Of course there's an element of vulnerability in making these ideas public. Some
 - [CSS Github Topic](https://github.com/topics/css)
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
+- [Performance best practices for Firefox front-end engineers](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Performance_best_practices_for_Firefox_fe_engineers)
 - [Front-End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 - [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [dypsilon's frontend-dev bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
@@ -92,12 +96,6 @@ Of course there's an element of vulnerability in making these ideas public. Some
 ## Unix
 
 1. [Unix Wikipedia Page](https://en.wikipedia.org/wiki/Unix)
-
-# Architecture and Patterns
-
-- Book: Gang-of-Four Design Patterns book
-- Book: Reactive Architectures book
-- Question: what is the best way to handle authentication and authorization for a set of microservices?
 
 ## MVC Pattern
   - [MVC Wikipedia Page](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
