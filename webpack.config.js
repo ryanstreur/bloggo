@@ -4,7 +4,8 @@ const webpackUtils = require("./webpack.utils");
 module.exports = {
   entry: {
     orbits: "./src/orbit.js",
-    test: "./src/test.js"
+    test: "./src/test.js",
+    reveal: "./src/reveal-wrapper.js"
   },
   devtool: "inline-source-map",
   output: {
