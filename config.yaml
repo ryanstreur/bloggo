@@ -1,0 +1,21 @@
+baseURL: https://ryanstreur.com
+languageCode: en-us
+defaultContentLanguage: en
+title: Ryan Streur
+theme: hugo-theme-clarity
+# enableGitInfo: true
+pygmentsCodefences: true
+pygmentsUseClasses: true
+hasCJKLanguage: true # If there're Chinese/Japanese/Korean Languages in the content, enable this.
+rssLimit: 10 # Maximum number of items in the RSS feed.
+copyright: Copyright Ryan Streur, 2018 # This message is only used by the RSS template.
+enableEmoji: true # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
+
+author: Ryan Streur
+blackfriday:
+  hrefTargetBlank: true
+
+taxonomies:
+  tag: tags
+
+sectionPagesMenu: main

@@ -4,14 +4,17 @@ date: 2019-03-16T10:08:12-07:00
 draft: false
 ---
 
-# Movies
+## Movies
 
-* The Godfather
-* The Little Hours
-* Lock, Stock and Two Smoking Barrels
-* Spiderman: Into the Spiderverse
+- The Godfather
+- The Little Hours
+- Spiderman: Into the Spiderverse
+- Lock, Stock and Two Smoking Barrels
 
-# Books
+## TV Shows
 
-* Autonomous
+- As of 11/16/19, Schitt's Creek. It's a lovely show.
 
+## Books
+
+- Autonomous

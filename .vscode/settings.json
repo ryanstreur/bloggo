@@ -5,5 +5,12 @@
         "Gabbard",
         "Inslee",
         "Klobuchar"
-    ]
+    ],
+    "cSpell.ignoreWords": [
+        "dypsilon"
+    ],
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "html.format.indentHandlebars": true,
+    "html.format.wrapAttributes": "force-expand-multiline"
 }

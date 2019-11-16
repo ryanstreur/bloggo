@@ -3,7 +3,11 @@ title: "My First Seventh Day"
 date: 2019-04-14T10:53:19-07:00
 draft: false
 author: "Ryan Streur"
-tags: ["religion", "spirituality", "personal"]
+tags:
+  - religion
+  - spirituality
+  - personal
+  - judaism
 ---
 Yesterday I observed the Sabbath for the first time. It was nice to have an excuse to avoid anything which felt even remotely like work. I didn't follow the Law in a formal sense, because I don't really know what the Law is. Also because I didn't want to constrain myself artificially, and because I feel like going too far outside my comfort zone in that way may actually be more work for a beginner, not less.
 
@@ -18,4 +22,3 @@ Maybe [Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite%5Fand%5FI
 Most work, for example, is either a move in a finite game or a finite game in itself. The working calendar in the private sector is split into convenient rounds (weeks, quarters, years) and a finite space (whatever market the company happens to be in). A worker competes with her coworkers, a CEO competes with her peers at other companies, a company competes with other companies in the market.
 
 Maybe my Sabbath is a day for setting aside finite play and enjoying infinity.
-
