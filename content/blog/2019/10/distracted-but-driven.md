@@ -2,9 +2,6 @@
 title: "Distracted but Driven"
 date: 2019-10-16T13:06:50-07:00
 draft: true
-menu:
-  main:
-    parent: blog
 ---
 
 What do I want to say about this?

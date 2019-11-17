@@ -1,4 +1,6 @@
 ---
-title: "Ryan Streur's Blog"
-menu: main
+title: "Blog"
+menu:
+  main:
+    identifier: blog
 ---

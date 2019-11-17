@@ -1,4 +1,6 @@
 ---
 title: 2019
-menu: blog
+menu:
+  main:
+    parent: blog
 ---
