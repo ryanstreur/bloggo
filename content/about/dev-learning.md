@@ -130,7 +130,7 @@ Emacs' big advantage is org mode. There's just nothing like it on any platform.
 
 ### Accessibility
 
-- https://www.essentialaccessibility.com/blog/web-accessibility-lawsuits/
+- [Lawsuits involving web accessibility](https://www.essentialaccessibility.com/blog/web-accessibility-lawsuits/)
 - https://www.w3.org/WAI/fundamentals/accessibility-intro/
 - https://en.wikipedia.org/wiki/Web_accessibility
 - Lighthouse

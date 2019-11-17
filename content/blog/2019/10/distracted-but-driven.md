@@ -4,7 +4,7 @@ date: 2019-10-16T13:06:50-07:00
 draft: true
 menu:
   main:
-    parent: post
+    parent: blog
 ---
 
 What do I want to say about this?

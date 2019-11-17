@@ -2,7 +2,7 @@
 title: Learning on a Saturday
 date: 2019-11-16T01:42:37-08:00
 draft: false
-menu: post
+menu: blog
 seeAlso:
   - link:
     text: RSS in Hugo
