@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 date: 2017-11-07T08:06:08-08:00
-draft: true
+draft: false
 showLastMod: true
 menu:
   main:
