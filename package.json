@@ -22,17 +22,17 @@
   "dependencies": {
     "reveal": "0.0.4",
     "three": "^0.103.0",
-    "three-orbitcontrols": "^2.102.1"
+    "three-orbitcontrols": "^2.110.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.4.0",
-    "@babel/preset-env": "^7.4.2",
-    "babel-loader": "^8.0.5",
-    "css-loader": "^3.0.0",
-    "file-loader": "^4.0.0",
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.2.0",
+    "file-loader": "^4.3.0",
     "style-loader": "^0.23.1",
     "svg-inline-loader": "^0.8.0",
-    "webpack": "^4.29.6",
-    "webpack-cli": "^3.3.0"
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
   }
 }
