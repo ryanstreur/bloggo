@@ -10,6 +10,5 @@
         "dypsilon"
     ],
     "editor.formatOnPaste": true,
-    "editor.formatOnSave": true,
     "html.format.indentHandlebars": true
 }

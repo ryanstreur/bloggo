@@ -1,0 +1,51 @@
+article {
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: 1.6em;
+}
+
+h2 {
+  margin-top: 0.5em;
+  border-bottom: 1px solid black;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  border-bottom: 1px solid black;
+}
+
+dl {
+  margin-top: 0;
+}
+
+dl > dt + dd {
+  margin-bottom: 1em;
+}
+
+dd > ul {
+  padding: 0;
+}
+
+ul {
+  margin: 0;
+}
+
+.contact-info {
+  display: flex;
+  justify-content: space-between;
+}
+
+.skills {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* put behind print query */
+  header.stick-to-top {
+    display: none;
+  }
+
