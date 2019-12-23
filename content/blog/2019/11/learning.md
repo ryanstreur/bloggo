@@ -18,5 +18,3 @@ seeAlso:
 - Today (11/15/2019) I learned all about how [Chrome will soon be removing support for Synchronous HTTP requests from unload events](https://chromestatus.com/feature/4664843055398912). Fascinating topic!
 - Reading the Hugo [output format](https://gohugo.io/templates/output-formats) documentation, wondering what the heck AMP is! There's so much I don't know!
 - Reading about the [anchor tag](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-a-element) (curious about [rel](https://html.spec.whatwg.org/multipage/links.html#attr-hyperlink-rel)).
-
-## This is a test
