@@ -1,0 +1,13 @@
+#+TITLE: Data Visualization
+#+DATE: 2019-12-14T12:54:02-08:00
+#+DRAFT: true
+
+* Data Visualization Resources
+
+** Books
+- [[https://www.edwardtufte.com/tufte/books_vdqi][The Visual Display of Quantitative Information]]
+- [[https://www.goodreads.com/book/show/26401716-the-truthful-art][The Truthful Art]]
+
+** Tools
+- D3.js
+
