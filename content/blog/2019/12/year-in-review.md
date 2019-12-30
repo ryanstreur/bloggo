@@ -4,14 +4,8 @@ date: 2019-12-22T04:42:37-08:00
 draft: true
 menu:
   main:
-	parent: 2019
-seeAlso:
-  - link:
-	text: RSS in Hugo
-	href: https://gohugo.io/templates/rss/
-  - link:
-	text: HTML Living Standard
-	href: https://html.spec.whatwg.org/multipage/
+    parent: 2019
+
 ---
 
 What a year this has been. Holy shit.
@@ -42,10 +36,13 @@ Actually, I remember something now. At first I thought Sal has licked his nose o
 
 I’ve had to give both my cats another course of oral medication and I’ve been using pill pockets and it’s so, so much better.
 
-# Ideas for the rest of this Article
+## Ideas for the rest of this Article
 
 * Get data about media consumption
 * Download Facebook data
 * Download twitter data or pull from API
 * Netflix data? Hulu? Pocket?
 
+## The year ahead
+
+I've been asking some of the people I tend to encounter on a day-to-day basis what they want out of 2020. I've gotten a lot of good answers, and those answers have helped me think about my own.
