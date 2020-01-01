@@ -10,5 +10,8 @@
         "dypsilon"
     ],
     "editor.formatOnPaste": true,
-    "html.format.indentHandlebars": true
+    "html.format.indentHandlebars": true,
+    "[markdown]": {
+      "editor.quickSuggestions": true
+    }
 }

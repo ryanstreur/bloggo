@@ -21,3 +21,6 @@ blackfriday:
 
 taxonomies:
   tag: tags
+
+params:
+  gitContentBase: https://github.com/ryanstreur/blog/commits/master/content 
