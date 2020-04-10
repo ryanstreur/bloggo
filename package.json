@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "webpack",
-    "start": "webpack --config webpack.config.dev.js --watch",
-    "dev": "hugo server -D & npm start & open http://localhost:1313",
+    "watch": "webpack --config webpack.config.dev.js --watch",
+    "start": "hugo server -D & npm run watch & open http://localhost:1313",
     "test": "test"
   },
   "repository": {
