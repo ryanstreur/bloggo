@@ -21,7 +21,7 @@
   "homepage": "https://github.com/ryanstreur/bloggo#readme",
   "dependencies": {
     "reveal": "0.0.4",
-    "three": "^0.103.0",
+    "three": "^0.125.0",
     "three-orbitcontrols": "^2.110.3"
   },
   "devDependencies": {
